@@ -84,7 +84,6 @@ plugins=(
   sudo                    # Press Escape twice to prepend sudo
   zsh-autosuggestions     # Ghost-text suggestions from history (external)
   zsh-syntax-highlighting # Real-time command validation colors (external)
-  you-should-use          # Reminds you of available aliases (external)
 
   # ── Your Stack ───────────────────────────────────────────
   docker                  # Docker autocompletion and aliases
